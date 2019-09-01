@@ -1,0 +1,54 @@
+[33mcommit b22565fe0301dc9b93b9094e7b7381ff16ca65ad[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ferchu <segarra.ferchu@gmail.com>
+Date:   Sun Sep 1 11:33:16 2019 -0300
+
+    contando vida
+
+ historia.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 4b5bef7dc64075c283ee40aafdcc3fd460c77c2b[m
+Author: Ferchu <segarra.ferchu@gmail.com>
+Date:   Sun Sep 1 11:32:11 2019 -0300
+
+    contando historia
+
+ historia.txt | 8 [32m+++++++[m[31m-[m
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+[33mcommit 3639d2fe508ecb62cebb057f1fce6c12436bea47[m
+Author: Ferchu <segarra.ferchu@gmail.com>
+Date:   Sun Sep 1 11:29:42 2019 -0300
+
+    Arranco mi proyecto real
+
+ blogpost.html   | 10 [32m++++++++++[m
+ scc/estilos.css |  6 [32m++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit a225716e23c4a6a4a729dac4aa055239fb091415[m
+Author: Ferchu <segarra.ferchu@gmail.com>
+Date:   Sun Sep 1 11:07:18 2019 -0300
+
+    Empece a escribir mi historia
+
+ historia.txt | 3 [32m+[m[31m--[m
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+[33mcommit a0b9da5b2f2f773f10987204fca76472f4fed648[m
+Author: Ferchu <segarra.ferchu@gmail.com>
+Date:   Sun Sep 1 11:00:46 2019 -0300
+
+    cambio de titulo
+
+ historia.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 9167a4fe50a94bf01993400c28e2f1c9f5c9d784[m
+Author: Ferchu <segarra.ferchu@gmail.com>
+Date:   Sun Sep 1 10:57:39 2019 -0300
+
+    este es el primer commit del archivo
+
+ historia.txt | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
